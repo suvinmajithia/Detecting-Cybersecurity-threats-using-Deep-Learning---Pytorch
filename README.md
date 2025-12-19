@@ -7,7 +7,6 @@ What this project does: Trains a PyTorch binary classifier on cyber logs (BETH d
 Main result: ~0.945 test accuracy, 0.999 precision, 0.941 recall, and 0.969 F1 on a heavily imbalanced dataset.
 
 🛡️ Cyber Threat Detection Model Using Deep Learning
-- Overview
 Cyber threats are increasingly sophisticated, including malware 🦠, phishing 🎣, and denial-of-service attacks ⚡, posing serious risks to organizations. Traditional detection methods often fail to adapt to new attack patterns. This project uses a deep learning model to detect malicious events from system logs in the BETH dataset, classifying events as malicious (1) or benign (0) ✅.
 
 - Actions and Methodology
